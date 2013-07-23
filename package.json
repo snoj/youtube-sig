@@ -1,0 +1,13 @@
+{
+  "name": "youtube-sig",
+  "version": "0.0.1",
+  "description": "Will attempt to identify the signature needed to download Youtube videos.",
+  "keywords": ["youtube","code race"],
+  "author": "Josh Erickson <josh@snoj.us>",
+  "repository": { "type": "git", "url": "git://github.com/snoj/youtube-sig.git" },
+  "dependencies": {
+    "jsdom": "0.6.x"
+  },
+  "devDependencies": {},
+  "main": "index"
+}
