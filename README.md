@@ -7,7 +7,13 @@
   of the method, the method code, and the javascript file it is found in.
   
 ```
-
+{ url: 'http://s.ytimg.com/yts/jsbin/html5player-vflART1Nf.js',
+  methods: [
+    { func: 'hj',
+       code: 'function hj(a){a=a.split("");a=a.slice(3);a=a.reverse();var b=a[0];a[0]=a[63%a.length];a[63]=b;a=a.slice(2);a=a.reverse();a=a.slice(1);return a.join("")}'
+    }
+  ]
+}
 ```
 
 # Install
