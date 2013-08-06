@@ -1,2 +1,2 @@
 
-throw "[youtube-sig should not be ran as a module]";
+var ys = module.exports = require('./lib/youtube-sig');
