@@ -1,3 +1,8 @@
+# No longer works
+
+Google has changed their methods enough and I don't care enough at this time to go hunting for a fix.
+
+Beside there are probably better ways to accomplish this.
 
 # youtube-sig
 
